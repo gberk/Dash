@@ -1,10 +1,9 @@
 {
-  "name": "smart-mirror",
-  "version": "0.0.0",
-  "dependencies": {
-    "inuit.css": "~5.0.0",
-    "angular": "~1.0.8",
-    "modernizr": "~2.6.2"
-  },
-  "devDependencies": {}
+	"name": "angular",
+	"version": "1.0.0",
+	"dependencies": {
+		"bootstrap": "latest",
+		"angular": "latest",
+		"angular-route": "latest"	
+	}
 }
